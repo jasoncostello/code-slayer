@@ -1,4 +1,4 @@
-###CodeSlayer Wallpapers
+### CodeSlayer Wallpapers
 
 ![](https://raw.githubusercontent.com/jasoncostello/code-slayer/master/codeslayer_2560x1440.png)
 
